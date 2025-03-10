@@ -69,7 +69,7 @@ Stock price prediction is critical for informed trading decisions but remains ch
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahmi0519/Task-04-_-Stock-Price-Prediction.git
+   git clone https://github.com/shahmi0519/Intellihack_Model-Ethos_Task04/tree/main
    ```
 2. Install dependencies:
    ```bash
